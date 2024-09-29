@@ -7,3 +7,4 @@ export { SimularPrestamo } from './prestamos';
 export { Tarjetas } from './tarjetas';
 export { SolicitarPretamo } from './prestamos';
 
+export { default as Convertidor } from './convertidor/Convertidor';
