@@ -9,3 +9,12 @@ export const metadata = {
 export default function HomePage() {
 	return <Home />;
 }
+
+//agregndo ruta
+import { Convertidor } from '@/sections'; 
+
+const Page = () => {
+    return <Convertidor />;
+};
+
+export default Page;
